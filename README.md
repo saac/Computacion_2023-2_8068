@@ -1,5 +1,5 @@
-# Computacion2022-8099
-Este es el repositorio Oficial del grupo 8099 para el curso de Coputación de 1er semestre de la carrera de Física de la Facultad de Ciencias de la UNAM.
+# Computacion 2023-2 8068
+Este es el repositorio Oficial del grupo 8068 para el curso de Coputación de 1er semestre de la carrera de Física de la Facultad de Ciencias de la UNAM.
 Aqui subiremos los codigos y cuadernos de Jupyter expuestos en clase, para que siempre esten disoponibles.
 
 
