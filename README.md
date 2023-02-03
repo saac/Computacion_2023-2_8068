@@ -7,9 +7,9 @@ Aqui subiremos los codigos y cuadernos de Jupyter expuestos en clase, para que s
 
 <!-- [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/saac/Computacion2020-8093/master?urlpath=lab/tree/Programacion_Python/1_Python_interprete_de_comandos.ipynb) **Boton para Jupyer LAB** -->
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/saac/Computacion2022-8099/main?urlpath=lab/tree/) **Boton para Jupyer LAB**
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/saac/Computacion_2023-2_8068/main?urlpath=lab/tree/) **Boton para Jupyer LAB**
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/saac/Computacion2022-8099/HEAD) **Boton para Jupyer NOTEBOOK** 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/saac/Computacion_2023-2_8068/HEAD) **Boton para Jupyer NOTEBOOK** 
 
 
 
